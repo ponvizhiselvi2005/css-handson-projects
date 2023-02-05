@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <h1 id="titleName">Easy steps</h1>
+    <img id="health1" src="https://www.mazopiya.com/wp-content/uploads/2016/01/shutterstock_321517037.jpg" alt="">
+    <h1 id="healthDescription1">Eat more fruits and vegetables</h1>
+    <p id="healthParagraph1">Fruit and vegetables are a good source of vitamins and minerals, including folate, vitamin C and potassium. <br>They're an excellent source of dietary fibre.</p>
+    <h1 id="healthDescription2">Exercise</h1>
+    <p id="healthParagraph2">Exercise can help prevent excess weight gain or help maintain weight loss. When you engage in physical activity,burn your calories.You may also feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVNHVjW1iSjlkm99HWoK0wd7r6Vwjwmtd8g&usqp=CAU" id="health2" alt="">
+    <h1 id="healthDescription3">Emotional health</h1>
+    <p id="healthParagraph3">Daily meditation can help you perform better at work! Research found that meditation helps increase your focus and attention and improves your ability to multitask. Meditation helps clear our minds and focus on the present moment – which gives you a huge productivity boost.</p>
+    <img id="health3" src="https://c1.wallpaperflare.com/preview/737/807/733/water-river-in-the-frog.jpg" id="health3" alt="">
+    <h1 id="healthDescription4">drink water</h1>
+    <p id="healthParagraph4">Water may also help with weight loss, if it is consumed instead of sweetened juices and sodas.Blood is more than 90 percent water, and blood carries oxygen to different parts of the body.</p>
+    <img id="health4" src="https://domf5oio6qrcr.cloudfront.net/medialibrary/7909/conversions/b8a1309a-ba53-48c7-bca3-9c36aab2338a-thumb.jpg" alt="">
+    <h1 id="healthDescription5">Have a cup of green Tea</h1>
+    <p id="healthParagraph5">Green tea is packed full of health-promoting compounds. Regularly drinking green tea can help you lose weight and reduce your risk of several diseases, including diabetes, heart disease and cancer. Matcha green tea is believed to have 137 times more antioxidants than regular green tea. </p>
+    <img id="health5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsG0ER-vzPedPjZEN54zJEaqves22YmfY5Q&usqp=CAU" alt="">
+    
+</body>
+</html>
+

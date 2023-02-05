@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body{
+    background-color: aqua;
+}
+#titleName{
+    width: 100%;
+    text-align: center;
+}
+#health1{
+    position: relative;
+    width: 40%;
+    margin-top: 7%;
+}
+#healthDescription1{
+    position: relative;
+    left: 7%;
+    display: inline-block;
+    }
+#healthParagraph1{
+    position: relative;
+    left: 40%;
+    display: inline-block;
+}
+#healthDescription2{
+    position: relative;
+    margin-top: 20%;
+}
+#healthParagraph2{
+    position: relative;
+    width: 50%;
+}
+#health2{
+    position: relative;
+    width: 20%;
+    left: 60%;
+    margin-bottom: 60%;
+}
+#health3{
+   width: 20%;
+   position: relative;
+   margin-bottom: 30%;
+}
+#healthDescription3{
+    position: relative;
+    margin-top: -20%;
+}
+#healthParagraph4{
+    position: relative;
+}

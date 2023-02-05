@@ -1,0 +1,71 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+}
+body{
+    background:url(https://www.puzzledepo.com/ProductImages/104118/original/200p-puz-avengers_30.jpg) ;
+}
+#TitleName{
+    width: 100%;
+    text-align: center;
+}
+#popularHeros{
+    position: relative;
+    margin-top: 10%;
+    left: 10%;
+    display: inline-block;
+}
+#superHeros1{
+    width: 10%;
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+#superHeros2{
+    width: 7%;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+}
+#superHerosName1{
+    position: absolute;
+    top: 50%;
+    left: 13%;
+}
+#superHerosName2{
+    position: absolute;
+    top: 50%;
+    left: 26%;
+}
+#popularVillains{
+    position: absolute;
+    left: 60%;
+}
+#superVillain1{
+    width: 8%;
+    position: absolute;
+    top: 40%;
+    left: 60%;
+}
+#superVillain2{
+    width: 8%;
+    position: absolute;
+    top: 40%;
+    left: 70%;
+
+}
+#superVillainName1{
+    position: absolute;
+    left: 62%;
+    top: 50%;
+}
+#superVillainName2{
+    position: absolute;
+    left: 72%;
+    top: 50%;
+}
+
+
+
+
